@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n jsbot
+web: bin/hubot -a irc -n jsbot
